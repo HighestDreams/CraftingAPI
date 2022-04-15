@@ -1,0 +1,8 @@
+---
+name: GoldenApple
+author: HighestDreams
+version: 1.0.0
+main: HighestDreams\GodApple\Loader
+api: 4.0.0
+src-namespace-prefix: HighestDreams\GodApple
+...
