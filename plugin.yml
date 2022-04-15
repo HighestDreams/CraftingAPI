@@ -1,8 +1,0 @@
----
-name: CraftingAPI
-author: HighestDreams
-version: 1.0.0
-main: HighestDreams\CraftingAPI\Loader
-api: 4.0.6
-src-namespace-prefix: HighestDreams\CraftingAPI
-...
