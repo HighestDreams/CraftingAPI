@@ -1,8 +1,8 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/HighestDreams/CraftingAPI
-build-by-default: true
 branches:
-- main
+  - master
 projects:
-  CraftingAPI:
-    path: ""
+  CraftingApi:
+    type: library
+    model: virion
 ...
